@@ -6,7 +6,7 @@ import "./home.scss";
 
 const Home = () => (
   <Layout>
-    <h1>Home page webpack dev server working</h1>
+    <h1>Home page webpack dev server working!</h1>
   </Layout>
 )
 document.addEventListener('DOMContentLoaded', () => {
